@@ -1,0 +1,29 @@
+
+0
+java:S1220""Move this file to a named package.
+D
+java:S1121".Extract the assignment out of this expression.(¢°Í¤
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(’Œ¿Á
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(’Œ¿Á
+s
+java:S4276
+"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(å›¾–
+i
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(å›¾–
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Î»ñşÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Î»ñşÿÿÿÿ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(àˆäì
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(¼ô…ßøÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¼ô…ßøÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(„‘§…
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ˆ¸ë‡ıÿÿÿÿ8÷¯¬£/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ù¼Ú©8÷¯¬£/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‡›øÿÿÿÿ8÷¯¬£/
